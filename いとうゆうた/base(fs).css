@@ -1,0 +1,38 @@
+.abcde{
+ width: 770px;
+ height: 2000px;
+ background-color: #ffffff;
+ margin: 10px auto;
+}
+
+/*.a{
+ width: 170px;
+ height: 600px;
+ text-shadow: 0px 0px 50px #FFD700;
+ background-color:red;
+ float:left;
+}*/
+.b{
+ /*width: 600px;
+ height: 300px;
+ padding: 0px 50px 0px 50px;
+ background-color:blue;*/
+ margin: 10px auto
+ p {text-align:center}
+}
+.c{
+ width: 600px;
+ /*text-shadow: 0px 0px 50px #191970;
+ background-color:yellow;*/
+ p {text-align:center}
+}
+
+.d{
+ width: 650px;
+ height: 300px;
+ /*text-shadow: 0px 0px 50px #191970;
+ background-color:purple;*/
+ float:left;
+}
+.e{
+  floot:right;  
