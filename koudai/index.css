@@ -1,0 +1,22 @@
+.a{
+	margin-left: 300px;
+}
+.b{
+	width: 400px;
+	background-color: #301155;
+	float: left;
+	margin-left: 20px;
+	margin-right: 10px
+}
+.c{
+	width: 250px;
+	background-color: #999999;
+	float: left;
+	margin-left: 10px;
+	margin-right: 20px;
+}
+.d{
+	background-color:#ff5500;
+	float: left;
+	margin-top: 20px;
+}
