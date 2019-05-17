@@ -3,7 +3,7 @@
 }
 .b{
 	width: 400px;
-	background-color: #301155;
+	background-color: #3011FF;
 	float: left;
 	margin-left: 20px;
 	margin-right: 10px
@@ -19,4 +19,8 @@
 	background-color:#ff5500;
 	float: left;
 	margin-top: 20px;
+	margin: 0 auto;
+}
+.e{
+	margin: 0 auto;
 }
