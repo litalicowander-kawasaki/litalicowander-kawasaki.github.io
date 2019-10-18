@@ -3,23 +3,30 @@
 }
 .b{
 	display:inline-block;
-	width: 400px;
+	width: 410px;
 	background-color: #3011FF;
 	margin: 10px;
 	padding: 10px;
 }
 .c{
 	display:inline-block;
-	width: 400px;
+	width: 410px;
 	background-color: #999333;
 	margin: 10px;
 	padding: 10px;
 }
 .d{
 	background-color:#000000;
-	
-
 }
 .e{
 	margin: 0 auto;
+}
+.f{
+	margin: 0 auto;
+}
+.g{
+	width: 860px;
+	background-color: #339961;
+	margin: 10px;
+	padding: 10px;
 }
